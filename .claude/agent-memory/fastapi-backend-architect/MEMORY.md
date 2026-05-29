@@ -1,0 +1,1 @@
+- [Day 1 backend scaffold](project_day1_scaffold.md) — scaffold done, venv at project/backend/.venv/, pytest auto mode, pip install -e . won't work
