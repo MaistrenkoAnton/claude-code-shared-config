@@ -1,0 +1,11 @@
+{
+  "name": "shared-config",
+  "displayName": "Shared Config",
+  "version": "1.0.0",
+  "description": "Shared Claude Code configuration with custom agents and skills for fullstack development",
+  "author": {
+    "name": "Anton Maistrenko"
+  },
+  "license": "MIT",
+  "keywords": ["config", "agents", "skills", "fullstack", "fastapi", "react"]
+}

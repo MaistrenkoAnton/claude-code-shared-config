@@ -1,0 +1,48 @@
+{
+  "name": "shared-config",
+  "owner": {
+    "name": "Anton Maistrenko"
+  },
+  "plugins": [
+    {
+      "name": "fastapi-backend-architect",
+      "source": {
+        "source": "github",
+        "repo": "MaistrenkoAnton/claude-code-shared-config",
+        "path": ".claude-plugin/plugin.json"
+      },
+      "description": "FastAPI backend architecture and design agent"
+    },
+    {
+      "name": "frontend-implementer",
+      "source": {
+        "source": "github",
+        "repo": "MaistrenkoAnton/claude-code-shared-config",
+        "path": ".claude-plugin/plugin.json"
+      },
+      "description": "Frontend implementation agent for React projects"
+    },
+    {
+      "name": "fullstack-tech-lead",
+      "source": {
+        "source": "github",
+        "repo": "MaistrenkoAnton/claude-code-shared-config",
+        "path": ".claude-plugin/plugin.json"
+      },
+      "description": "Fullstack architecture and planning agent"
+    },
+    {
+      "name": "qa-reviewer",
+      "source": {
+        "source": "github",
+        "repo": "MaistrenkoAnton/claude-code-shared-config",
+        "path": ".claude-plugin/plugin.json"
+      },
+      "description": "QA and code review agent"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Shared Claude Code configuration with custom agents and skills for fullstack development"
+  }
+}

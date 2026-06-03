@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "my-test-skill-octra-super-puper": {
+      "source": "git@gitlab.com:2sixty/activation/octra/agentic-hub.git",
+      "sourceType": "git",
+      "skillPath": "skills/my-test-skill-octra-super-puper/SKILL.md",
+      "computedHash": "78e6448ff8873c4e77a075cbf24cda3e88e2268026643beffc13ed024fdaa6aa"
+    },
+    "my-test-skill-octra-super-puper-duper": {
+      "source": "git@gitlab.com:2sixty/activation/octra/agentic-hub.git",
+      "sourceType": "git",
+      "skillPath": "skills/my-test-skill-octra-super-puper-duper/SKILL.md",
+      "computedHash": "7d4f7e59d6e85c2effdd5101ea29f6d6b3c26ed1ab78517a1f774e9e8ac20df1"
+    }
+  }
+}
